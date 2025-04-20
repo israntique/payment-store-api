@@ -1,0 +1,62 @@
+﻿{
+  "123_123": [
+    {
+      "PayId": 0,
+      "CustomerID": 1000,
+      "CustomerName": "יוסי ישראלי",
+      "PlanName": "מסלול בסיסי",
+      "PayFor": "מנוי חודשי",
+      "Sum": 49.99,
+      "IsPaid": true
+    },
+    {
+      "PayId": 1,
+      "CustomerID": 1001,
+      "CustomerName": "אורי כהן",
+      "PlanName": "מסלול זהב",
+      "PayFor": "מנוי חודשי",
+      "Sum": 149.90,
+      "IsPaid": true
+    },
+    {
+      "PayId": 2,
+      "CustomerID": 1001,
+      "CustomerName": "חיים תומר",
+      "PlanName": "מסלול כסף",
+      "PayFor": "מנוי שבוע",
+      "Sum": 95.90,
+      "IsPaid": true
+    }
+  ],
+  "456_456": [
+    {
+      "PayId": 3,
+      "CustomerID": 1002,
+      "CustomerName": "נעמה לוי",
+      "PlanName": "מסלול כסף",
+      "PayFor": "תשלום שנתי",
+      "Sum": 999.00,
+      "IsPaid": true
+    }
+  ],
+  "789_789": [
+    {
+      "PayId": 4,
+      "CustomerID": 1003,
+      "CustomerName": "דני ישראלי",
+      "PlanName": "מסלול בסיסי",
+      "PayFor": "חידוש מנוי",
+      "Sum": 49.99,
+      "IsPaid": false
+    },
+    {
+      "PayId": 5,
+      "CustomerID": 1003,
+      "CustomerName": "מיכל חקק",
+      "PlanName": "מסלול קבוע",
+      "PayFor": "מנוי קבוע",
+      "Sum": 1500.99,
+      "IsPaid": true
+    }
+  ]
+}
